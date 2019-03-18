@@ -46,5 +46,3 @@ while cmd != '5':
         for task in myList:
             file.write("%s \n" % task)
         file.close()
-
-file.close()
